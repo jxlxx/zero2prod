@@ -1,1 +1,9 @@
 /target
+/postgres
+/postgres_data
+/.direnv
+
+!.gitignore
+!.envrc
+!.env*
+
